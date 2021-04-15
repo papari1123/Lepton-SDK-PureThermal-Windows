@@ -1,3 +1,5 @@
+original : https://lepton.flir.com/software-sdk/
+
 # Lepton CCI SDK
 
 Getting started with Python
